@@ -1,5 +1,5 @@
 export enum ERouter {
-  SIGNUP = "/signup",
+  SIGNUP = "/#/signup",
   SIGNIN = "/signin",
   HOME = "/",
   SETTING = "/setting",
